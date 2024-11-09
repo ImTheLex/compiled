@@ -1,0 +1,102 @@
+:root{
+    --customColor_1:#f4f4f4;
+    --customColor_2: #dcdcdc;
+    --customColor_3: #4C566A;
+    --customColor_4: #3B4252;
+    --customColor_5: #ECEFF4;
+    --customColor_6: #2D3748;
+    --customColor_7: #E5E9F0;
+    --customColor_8: #607D8B;
+    --customColor_9: #1C1F24;
+    --customColor_10: #E63946;
+    --customColor_11: #FFC857;
+    --customColor_12: #3B4252;
+    --customColor_13: #FF6B6B;
+    --customColor_14: #57CC99;
+    
+    
+    
+    --text_cus_color_1: var(--customColor_1);
+    --text_cus_color_2: var(--customColor_2);
+    --text_cus_color_3: var(--customColor_3);
+    --text_cus_color_4: var(--customColor_4);
+    --text_cus_color_5: var(--customColor_5);
+    --text_cus_color_6: var(--customColor_6);
+    --text_cus_color_7: var(--customColor_7);
+    --text_cus_color_8: var(--customColor_8);
+    --text_cus_color_9: var(--customColor_9);
+    --text_cus_color_10: var(--customColor_10);
+    --text_cus_color_11: var(--customColor_11);
+    --text_cus_color_12: var(--customColor_12);
+    --text_cus_color_13: var(--customColor_13);
+    --text_cus_color_14: var(--customColor_14);
+    
+    --background_cus_1: var(--customColor_1);
+    --background_cus_2 : var(--customColor_2);
+    --background_cus_3 : var(--customColor_3);
+    --background_cus_4 : var(--customColor_4);
+    --background_cus_5 : var(--customColor_5);
+    --background_cus_6 : var(--customColor_6);
+    --background_cus_7 : var(--customColor_7);
+    --background_cus_8 : var(--customColor_8);
+    --background_cus_9 : var(--customColor_9);
+    --background_cus_10 : var(--customColor_10);
+    --background_cus_11 : var(--customColor_11);
+    --background_cus_12 : var(--customColor_12);
+    --background_cus_13 : var(--customColor_13);
+    --background_cus_14 : var(--customColor_14);
+    
+    --hover_text_cus_1: var(--customColor_1);
+    --hover_text_cus_2: var(--customColor_2);
+    --hover_text_cus_3: var(--customColor_3);
+    --hover_text_cus_4: var(--customColor_4);
+    --hover_text_cus_5: var(--customColor_5);
+    --hover_text_cus_6: var(--customColor_6);
+    --hover_text_cus_7: var(--customColor_7);
+    --hover_text_cus_8: var(--customColor_8);
+    --hover_text_cus_9: var(--customColor_9);
+    --hover_text_cus_10 : var(--customColor_10);
+    --hover_text_cus_11 : var(--customColor_11);
+    --hover_text_cus_12 : var(--customColor_12);
+    --hover_text_cus_13 : var(--customColor_13);
+    
+    
+    --border_cus_1: var(--customColor_1);
+    --border_cus_2 : var(--customColor_2);
+    --border_cus_3 : var(--customColor_3);
+    --border_cus_4 : var(--customColor_4);
+    --border_cus_5 : var(--customColor_5);
+    --border_cus_6 : var(--customColor_6);
+    --border_cus_7 : var(--customColor_7);
+    --border_cus_8 : var(--customColor_8);
+    --border_cus_9 : var(--customColor_9);
+    --border_cus_10 : var(--customColor_10);
+    --border_cus_11 : var(--customColor_11);
+    --border_cus_12 : var(--customColor_12);
+    --border_cus_13 : var(--customColor_13);
+    
+    --hover_bg_cus_1:var(--customColor_1);
+    --hover_bg_cus_2:var(--customColor_2);
+    --hover_bg_cus_3:var(--customColor_3);
+    --hover_bg_cus_4:var(--customColor_4);
+    --hover_bg_cus_5:var(--customColor_5);
+    --hover_bg_cus_6:var(--customColor_6);
+    --hover_bg_cus_7:var(--customColor_7);
+    --hover_bg_cus_8:var(--customColor_8);
+    --hover_bg_cus_9:var(--customColor_9);
+    --hover_bg_cus_10:var(--customColor_10);
+    --hover_bg_cus_11:var(--customColor_11);
+    --hover_bg_cus_12:var(--customColor_12);
+    --hover_bg_cus_13:var(--customColor_13);
+       
+    
+    }
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header{
+    font-family: Arial, Helvetica, sans-serif;
+}

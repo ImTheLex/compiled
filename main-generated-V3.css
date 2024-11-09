@@ -1,0 +1,14 @@
+.bg-cus-1 { background-color: var(--background_cus_1); }
+.br-a-2-s { border-width : 2px; border-style: solid ;}
+.br-cus-2 { border-color: var(--border_cus_2) ; }
+.br-lightgrey { border-color: lightgrey ; }
+.center { display: flex; justify-content: center; align-items: center; }
+.flex-col { display: flex; flex-direction: column; }
+.fs-5 { font-size: 1.25rem; }
+.fs-7 { font-size: 1.75rem; }
+.gap-y-2 { column-gap: 0.5rem; }
+.h-10 { height: 2.5rem; }
+.p-2 { padding: 0.5rem; }
+.ta-c { text-align: center; }
+.text-darkblue { color: darkblue; }
+.text-white { color: white; }
