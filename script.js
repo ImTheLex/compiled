@@ -2,15 +2,12 @@ function handleWithdraw(retrait){
     if(retrait <= solde){
         solde = solde - retrait;
         message = `Vous avez retiré ${retrait}  euros. Nouveau solde : ${solde} euros.`
-        // console.log(message);
     }
     else if(retrait > solde){
         message = `Solde insuffisant pour effectuer ce retrait.`
-        // console.log(message);
     }
     else {
         message = `Une erreur est survenue.`
-        // console.log(message);
     }
     return message;
 }
@@ -28,6 +25,7 @@ let nouveauRetrait = 800;
 let interet;
 
 let timestamp = new Date().toLocaleString();
+
 
 // Montant de dépot au solde 
 
