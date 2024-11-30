@@ -11,7 +11,6 @@ const HISTORIQUEOPERATION = []
 let timestamp = new Date().toLocaleString();
 
 
-
 // Montant de dépot au solde 
 
 bankAccount.handleDeposit()
